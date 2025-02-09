@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    background-color: aqua;
+    width: 10%;
+    gap: 144px;
+    position: relative;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+.icon-arrow{
+    font-size: 60px;
+    margin-left: 120px;
+    position: absolute;
+    z-index: 1;
+}
